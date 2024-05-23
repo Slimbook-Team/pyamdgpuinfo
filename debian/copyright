@@ -1,0 +1,6 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: pyamdgpuinfo
+Source: https://github.com/mark9064/pyamdgpuinfo
+
+Files: *
+License: GPL-3
