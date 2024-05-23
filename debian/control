@@ -1,7 +1,7 @@
 Source: pyamdgpuinfo
 Section: libs
 Priority: optional
-Build-Depends: debhelper-compat (= 13), python3, dh-python, python3-minimal, python3-setuptools, cython3
+Build-Depends: debhelper-compat (= 13), python3, dh-python, python3-minimal, python3-setuptools, cython3, libdrm-dev
 Standards-Version: 4.6.0
 Rules-Requires-Root: no
 Homepage: https://github.com/mark9064/pyamdgpuinfo
