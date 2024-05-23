@@ -4,7 +4,7 @@ Priority: optional
 Build-Depends: debhelper-compat (= 13), python3, dh-python, python3-minimal, python3-setuptools, cython3, libdrm-dev
 Standards-Version: 4.6.0
 Rules-Requires-Root: no
-Mantainer: Slimbook <dev@slimbook.es>
+Maintainer: Slimbook <dev@slimbook.es>
 Homepage: https://github.com/mark9064/pyamdgpuinfo
 
 Package: python3-amdgpuinfo
