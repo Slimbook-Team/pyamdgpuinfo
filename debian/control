@@ -1,7 +1,7 @@
 Source: pyamdgpuinfo
 Section: libs
 Priority: optional
-Build-Depends: debhelper-compat (= 13), python3, dh-python, python3-minimal, python3-setuptools, cython3, libdrm-dev
+Build-Depends: debhelper-compat (= 13), python3, dh-python, python3-minimal, python3-setuptools, cython3, libdrm-dev, libpython3-all-dev
 Standards-Version: 4.6.0
 Rules-Requires-Root: no
 Maintainer: Slimbook <dev@slimbook.es>
