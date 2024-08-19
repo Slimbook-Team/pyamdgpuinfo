@@ -1,3 +1,9 @@
+pyamdgpuinfo (2.1.6+slimbook1.2) noble; urgency=medium
+
+  * Dummy upgrade
+
+ -- Slimbook <dev@slimbook.es>  Mon, 19 Aug 2024 10:47:33 +0200
+
 pyamdgpuinfo (2.1.6+slimbook1.1) noble; urgency=medium
 
   * Missing build-dep 
